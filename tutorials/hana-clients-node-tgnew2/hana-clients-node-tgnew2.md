@@ -3,8 +3,8 @@ title: Connect Using the SAP HANA Node.js Interface tgnew2
 description: Create and debug a Node.js application that connects to SAP HANA using the SAP HANA client.
 auto_validation: true
 time: 15
-tags: [ tutorial>beginner, products>sap-hana, topic>node-js]
-primary_tag: products>sap-hana-cloud
+tags: [ tutorial>advanced, topic>big-data, tutorial>community, tutorial>license ]
+primary_tag: topic>ABAP-Development
 ---
 
 ## Prerequisites
