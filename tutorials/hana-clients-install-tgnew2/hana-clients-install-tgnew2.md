@@ -3,8 +3,8 @@ title: Install the SAP HANA Client tgnew2
 description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
-tags: [ tutorial>beginner, products>sap-hana ]
-primary_tag: products>sap-hana-cloud
+tags: [ tutorial>advanced, topic>big-data, tutorial>community, tutorial>license ]
+primary_tag: topic>ABAP-Development
 ---
 
 ## Prerequisites
