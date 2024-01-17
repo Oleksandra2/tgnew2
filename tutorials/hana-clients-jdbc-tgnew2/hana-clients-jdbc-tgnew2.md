@@ -5,7 +5,6 @@ auto_validation: true
 time: 15
 tags: [ tutorial>advanced, topic>big-data, tutorial>community, tutorial>license ]
 primary_tag: topic>ABAP-Development
-contributors: [ maximilianone > https://github.com/maximilianone ]
 ---
 
 ## Prerequisites
