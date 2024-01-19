@@ -30,7 +30,7 @@ Ensure that you have a Java Development Kit (JDK) installed and make sure it is 
 A few options include:
 
 * [Java JDK](https://www.oracle.com/technetwork/java/javase/overview/index.html) such as [Java SE 11 (LTS)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-
+vfvv
 * [A SAP supported version of the `OpenJDK`](https://sap.github.io/SapMachine/#download)
 
 
