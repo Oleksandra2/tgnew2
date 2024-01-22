@@ -5,7 +5,7 @@ auto_validation: true
 time: 15
 tags: [ tutorial>advanced, topic>big-data, tutorial>community, tutorial>license ]
 primary_tag: topic>ABAP-Development
-[ Dmytro Ivanov > https://github.com/IvanovDmytroA, Test Test > https://github.com/BigotryOps ]
+contributors: [ Dmytro Ivanov > https://github.com/IvanovDmytroA, Test Test > https://github.com/BigotryOps ]
 ---
 
 ## Prerequisites
@@ -24,8 +24,7 @@ primary_tag: topic>ABAP-Development
 
 [ACCORDION-BEGIN [Step 1: ](Install a JDK)]
 
-upd rrrff
-пппп
+updated
 Ensure that you have a Java Development Kit (JDK) installed and make sure it is accessible from your path.  Details on which Java versions are supported can be found in  SAP note [3006307 - SAP HANA Client Supported Platforms for 2.7](https://launchpad.support.sap.com/#/notes/3006307) and [Oracle Java SE Support Roadmap](https://www.oracle.com/java/technologies/java-se-support-roadmap.html).  
 
 A few options include:
